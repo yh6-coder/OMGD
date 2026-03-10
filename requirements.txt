@@ -1,0 +1,12 @@
+tensorboardX
+lmdb
+tensorboard
+torchvision
+scikit-learn
+scipy
+tqdm
+pytorch
+numpy
+transformers
+datasets
+tiktoken
