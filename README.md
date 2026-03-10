@@ -25,7 +25,7 @@ python synthetic_data_training.py
 ```
 
 <div align="center">
-  <img src="./assets/illustrative_example.png" alt="illustrative example" style="width:80%; height:auto;"/>
+  <img src="./assets/illustrative_example.png" alt="illustrative example" style="width:100%; height:auto;"/>
 </div>
 
 
@@ -63,7 +63,4 @@ If you find this work useful, please cite:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2603.05960}, 
 }
-=======
-# OMGD
-Official implementation of 'Omni-Masked Gradient Descent: Memory-Efficient Optimization via Mask Traversal with Improved Convergence'
->>>>>>> 6a1fdd9ef53c02d964988486f7c4f00eb7ddb98b
+```
