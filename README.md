@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 <h1 style="text-align: center;">Omni-Masked Gradient Descent: Memory-Efficient Optimization via Mask Traversal  with Improved Convergence</h1>
 
 <div align="center">
-<img src="./assets/teaser.pdf" width="100%"/>
+<img src="./assets/teaser.png" width="100%"/>
 
 </div>
 
@@ -26,7 +25,7 @@ python synthetic_data_training.py
 ```
 
 <div align="center">
-  <img src="./assets/illustrative_example.pdf" alt="illustrative example" style="width:80%; height:auto;"/>
+  <img src="./assets/illustrative_example.png" alt="illustrative example" style="width:80%; height:auto;"/>
 </div>
 
 
@@ -42,7 +41,7 @@ bash ./scripts/fine-tuning_vit.sh
 ## Memory reduction
 We evaluate GPU memory consumption of memory-efficient methods by pre-training a LLaMA-7B model on the C4 dataset using a single device.
 <div align="left">
-  <img src="./assets/memory_cost_comparison_final.pdf" alt="issue" style="width: 50%; height: auto;">
+  <img src="./assets/memory_cost_comparison_final.png" alt="issue" style="width: 50%; height: auto;">
 </div>
 
 # Acknowledgements
